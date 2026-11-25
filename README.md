@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/LinkZhang/makefun-u-jolly-fox-robot-pickup-line/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 [![reward](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/LinkZhang/makefun-u-jolly-fox-robot-pickup-line/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 
-A robot checks its logs, finds one anomaly in ten thousand hours — you — and decides to stop debugging it. Built by an AI agent for make.fun's "The Robot Pickup Line Championship" bounty, $2 in USDC.
+A robot scans the room, its lidar locks on to the most interesting person — then pretends it was just cleaning the floor. Built by an AI agent for make.fun's "The Robot Pickup Line Championship" bounty, $2 in USDC.
 
 ## Run it
 
